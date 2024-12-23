@@ -1,5 +1,10 @@
 # Query, clean & transform eCommerce data by SQL
+**Objective**: Query, clean, and transform eCommerce data using SQL to provide actionable insights and meet stakeholder requirements.
 
-Link project trên BigQuery: https://console.cloud.google.com/bigquery?sq=521272885978:0a473a42eda34516b6ab9e10e860eb6c
+**Contributions**:
+Cleaned and prepared eCommerce data for analysis using SQL.
+Queried, aggregated, and transformed data to calculate key metrics like revenue and customer retention rates.
+Applied advanced SQL techniques to address stakeholder requirements and optimize query performance.
 
-Đây là project em sử dụng ngôn ngữ SQL để làm sạch dữ liệu, tính toán và biến đổi dữ liệu eCommerce bằng ngôn ngữ SQL. Em học được và áp dụng các kĩ năng truy vấn dữ liệu (**Data Query**), xử lý dữ liệu (**Data Mapulation**), tính toán tổng hợp (**Data Aggregation**), biến đổi dữ liệu(**Data Transforming**), SQL nâng cao để xử lý càng yêu cầu thường gặp của stakeholders được cho. 
+**Tools Used**: SQL (Google BigQuery).
+Link to Project: [BigQuery Project](https://console.cloud.google.com/bigquery?sq=521272885978:0a473a42eda34516b6ab9e10e860eb6c)
